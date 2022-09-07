@@ -1,0 +1,24 @@
+.container_cover {
+    background-image: url("../img/cover_football.jpg");
+    background-position: center;
+    height: 400px;
+    width: 100%;
+}
+
+.container_image_player {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 25px;
+}
+
+.margin-25 {
+    margin-top: 20px;
+}
+
+.image_player {
+    width: 350px;
+    height: 350px;
+    border-radius: 180px;
+    background-position: top;
+    margin-top: -184px;
+}

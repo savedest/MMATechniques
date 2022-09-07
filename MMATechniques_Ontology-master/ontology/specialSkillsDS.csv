@@ -1,0 +1,836 @@
+short_name,player_tags
+"L. Messi",Dribbler
+"L. Messi","Distance Shooter"
+"L. Messi","FK Specialist"
+"L. Messi",Acrobat
+"L. Messi","Clinical Finisher"
+"L. Messi","Complete Forward"
+"Cristiano Ronaldo","Aerial Threat"
+"Cristiano Ronaldo",Dribbler
+"Cristiano Ronaldo","Distance Shooter"
+"Cristiano Ronaldo",Acrobat
+"Cristiano Ronaldo","Clinical Finisher"
+"Cristiano Ronaldo","Complete Forward"
+"R. Lewandowski","Distance Shooter"
+"R. Lewandowski","Clinical Finisher"
+"Neymar Jr",Speedster
+"Neymar Jr",Dribbler
+"Neymar Jr",Playmaker
+"Neymar Jr","FK Specialist"
+"Neymar Jr",Acrobat
+"Neymar Jr","Clinical Finisher"
+"Neymar Jr","Complete Midfielder"
+"Neymar Jr","Complete Forward"
+"K. De Bruyne",Dribbler
+"K. De Bruyne",Playmaker
+"K. De Bruyne",Engine
+"K. De Bruyne","Distance Shooter"
+"K. De Bruyne",Crosser
+"K. De Bruyne","Complete Midfielder"
+"K. Mbappé",Speedster
+"K. Mbappé",Dribbler
+"K. Mbappé",Acrobat
+"V. van Dijk",Tackling
+"V. van Dijk",Tactician
+"V. van Dijk",Strength
+"V. van Dijk","Complete Defender"
+"S. Mané",Speedster
+"S. Mané",Dribbler
+"S. Mané",Acrobat
+"M. Salah",Speedster
+"M. Salah",Dribbler
+"M. Salah",Acrobat
+"M. Salah","Clinical Finisher"
+"M. Salah","Complete Forward"
+"S. Agüero",Dribbler
+"S. Agüero","Clinical Finisher"
+"S. Agüero","Complete Forward"
+"Sergio Ramos","Aerial Threat"
+"Sergio Ramos",Tackling
+"Sergio Ramos",Tactician
+"Sergio Ramos","Complete Defender"
+"K. Benzema",Poacher
+Casemiro,Engine
+Casemiro,Tackling
+Casemiro,Tactician
+Casemiro,Strength
+Casemiro,"Complete Defender"
+"R. Sterling",Speedster
+"R. Sterling",Dribbler
+"R. Sterling",Acrobat
+"J. Kimmich",Crosser
+"H. Kane","Distance Shooter"
+"H. Kane","Clinical Finisher"
+"P. Dybala",Dribbler
+"P. Dybala",Playmaker
+"P. Dybala","FK Specialist"
+"P. Dybala",Acrobat
+"P. Dybala","Complete Midfielder"
+"T. Kroos",Playmaker
+"T. Kroos","Distance Shooter"
+"T. Kroos",Crosser
+"T. Kroos","Complete Midfielder"
+"E. Hazard",Dribbler
+"E. Hazard",Acrobat
+"K. Koulibaly",Tackling
+"K. Koulibaly",Tactician
+"K. Koulibaly",Strength
+"K. Koulibaly","Complete Defender"
+"N. Kanté",Tackling
+"N. Kanté",Tactician
+"J. Sancho",Dribbler
+"J. Sancho",Acrobat
+"T. Alexander-Arnold",Crosser
+"Bruno Fernandes",Playmaker
+"Bruno Fernandes",Engine
+"Bruno Fernandes","Distance Shooter"
+"Bruno Fernandes",Crosser
+"Bruno Fernandes","FK Specialist"
+"Bruno Fernandes","Complete Midfielder"
+"A. Laporte",Tackling
+"A. Laporte",Tactician
+Fabinho,Tackling
+Fabinho,Tactician
+"A. Robertson",Engine
+"A. Robertson",Crosser
+"Bernardo Silva",Dribbler
+"Bernardo Silva",Engine
+"Bernardo Silva",Acrobat
+"G. Chiellini",Tackling
+"G. Chiellini",Tactician
+"G. Chiellini",Strength
+"G. Chiellini","Complete Defender"
+"L. Suárez","Distance Shooter"
+"L. Suárez","Clinical Finisher"
+"P. Aubameyang",Speedster
+"C. Immobile","Clinical Finisher"
+"A. Griezmann",Poacher
+"A. Griezmann",Dribbler
+"A. Griezmann",Acrobat
+"A. Griezmann","Clinical Finisher"
+"A. Griezmann","Complete Forward"
+"H. Son",Dribbler
+"H. Son",Engine
+"H. Son","Distance Shooter"
+"H. Son",Acrobat
+"H. Son","Clinical Finisher"
+"H. Son","Complete Forward"
+"Roberto Firmino",Dribbler
+"Roberto Firmino",Engine
+"R. Varane",Tackling
+"R. Varane",Tactician
+"P. Pogba",Dribbler
+"P. Pogba",Playmaker
+"P. Pogba",Strength
+"P. Pogba","Complete Midfielder"
+"M. Verratti",Dribbler
+"M. Verratti",Playmaker
+"M. Verratti",Acrobat
+"M. Verratti","Complete Midfielder"
+"A. Gómez",Speedster
+"A. Gómez",Dribbler
+"A. Gómez",Playmaker
+"A. Gómez",Acrobat
+"A. Gómez","Complete Midfielder"
+"David Silva",Dribbler
+"David Silva",Playmaker
+"David Silva","Complete Midfielder"
+"M. Hummels",Tackling
+"M. Hummels",Tactician
+"M. Hummels",Strength
+"M. Hummels","Complete Defender"
+"J. Henderson",Engine
+"Jordi Alba",Acrobat
+"T. Müller",Engine
+Carvajal,Engine
+"M. de Ligt",Strength
+"L. Sané",Speedster
+"L. Sané",Dribbler
+"F. de Jong",Dribbler
+"F. de Jong",Playmaker
+"F. de Jong","Complete Midfielder"
+Marquinhos,Tackling
+Marquinhos,Tactician
+"C. Lenglet",Tactician
+"M. Škriniar",Tactician
+"M. Depay","FK Specialist"
+"T. Werner",Speedster
+"S. Gnabry",Dribbler
+"S. Gnabry",Acrobat
+"Ricardo Pereira",Engine
+"R. Lukaku",Poacher
+"R. Lukaku",Strength
+"R. Lukaku","Complete Forward"
+"Luis Alberto",Playmaker
+"H. Ziyech",Playmaker
+"H. Ziyech",Crosser
+"H. Ziyech","Complete Midfielder"
+"Thiago Silva",Tactician
+"D. Mertens",Dribbler
+"D. Mertens",Acrobat
+"G. Wijnaldum",Engine
+"T. Alderweireld",Tackling
+"L. Bonucci",Tactician
+"M. Reus","FK Specialist"
+"M. Reus","Clinical Finisher"
+"K. Walker",Speedster
+"K. Walker",Engine
+Thiago,Dribbler
+Thiago,Acrobat
+Parejo,Playmaker
+Parejo,Crosser
+Parejo,"FK Specialist"
+Parejo,"Complete Midfielder"
+"C. Eriksen",Playmaker
+"C. Eriksen",Engine
+"C. Eriksen",Crosser
+"C. Eriksen","Complete Midfielder"
+Koke,Engine
+"L. Insigne",Dribbler
+"L. Insigne",Acrobat
+"R. Mahrez",Dribbler
+"R. Mahrez",Acrobat
+"L. Martínez",Dribbler
+"L. Martínez",Acrobat
+"N. Süle","Aerial Threat"
+"N. Süle",Tackling
+"N. Süle",Strength
+Arthur,Dribbler
+Arthur,Playmaker
+Arthur,"Complete Midfielder"
+"A. Martial",Dribbler
+"J. Brandt",Dribbler
+"K. Coman",Speedster
+"K. Coman",Dribbler
+"K. Coman",Acrobat
+"J. Giménez",Tackling
+"J. Giménez",Strength
+"W. Ndidi",Tackling
+"W. Ndidi",Tactician
+Saúl,Engine
+"S. de Vrij",Tackling
+"S. de Vrij",Tactician
+"L. Digne",Crosser
+"R. Guerreiro",Dribbler
+"R. Guerreiro",Acrobat
+"Lucas Leiva",Tactician
+"Douglas Costa",Speedster
+"Douglas Costa",Dribbler
+"Douglas Costa",Acrobat
+"Iago Aspas",Acrobat
+"Iago Aspas","Clinical Finisher"
+"J. Corona",Dribbler
+"J. Corona",Acrobat
+"I. Gueye",Tactician
+Isco,Dribbler
+"W. Ben Yedder",Dribbler
+"W. Ben Yedder",Acrobat
+Felipe,Tactician
+Felipe,Strength
+"F. Valverde",Engine
+"M. Ødegaard",Dribbler
+"O. Dembélé",Speedster
+"O. Dembélé",Dribbler
+"S. Bergwijn",Dribbler
+"F. Mendy",Speedster
+"F. Mendy",Engine
+"A. Hakimi",Speedster
+"A. Romagnoli",Tactician
+"D. Alli",Engine
+"Gabriel Jesus",Dribbler
+"Gabriel Jesus",Acrobat
+"Nélson Semedo",Speedster
+"Nélson Semedo",Acrobat
+"M. Sabitzer","Distance Shooter"
+"Diego Carlos",Strength
+"K. Manolas",Tactician
+"N. Fekir",Dribbler
+"João Moutinho",Playmaker
+"G. Higuaín","Clinical Finisher"
+"G. Bale","Distance Shooter"
+"G. Bale",Crosser
+"G. Bale","FK Specialist"
+Marcelo,Dribbler
+"R. Nainggolan",Engine
+"R. Nainggolan","Distance Shooter"
+"R. Nainggolan",Tackling
+"R. Nainggolan",Tactician
+"E. Džeko",Poacher
+"A. Vidal",Engine
+"K. Trippier",Crosser
+Oscar,Acrobat
+Coutinho,Dribbler
+Coutinho,"FK Specialist"
+Coutinho,Acrobat
+Muniain,Dribbler
+Muniain,Acrobat
+"W. Zaha",Speedster
+"W. Zaha",Dribbler
+"F. Acerbi",Tackling
+"F. Acerbi",Tactician
+"F. Acerbi",Strength
+"F. Acerbi","Complete Defender"
+Allan,Tackling
+Allan,Tactician
+"Lucas Moura",Speedster
+"Lucas Moura",Dribbler
+"Lucas Moura",Acrobat
+"T. Hazard",Dribbler
+"T. Hazard",Acrobat
+Portu,Speedster
+Portu,Engine
+Jorginho,Playmaker
+"Gerard Moreno","Clinical Finisher"
+Rafa,Speedster
+Rafa,Dribbler
+Rafa,Acrobat
+"M. Acuña",Dribbler
+"M. Acuña",Engine
+"M. Acuña",Crosser
+"Rúben Neves",Playmaker
+"H. Maguire","Aerial Threat"
+"H. Maguire",Strength
+"Anderson Talisca","FK Specialist"
+"A. Correa",Dribbler
+"A. Correa",Acrobat
+"N. Pépé",Acrobat
+"Marcos Llorente",Engine
+"E. Can",Strength
+"Gabriel Paulista",Tactician
+"L. Ocampos",Engine
+"Raúl Albiol",Tackling
+"Raúl Albiol",Tactician
+"D. Payet",Dribbler
+Willian,Dribbler
+Willian,Acrobat
+"J. Boateng",Strength
+"D. Blind",Tactician
+Rodrigo,Speedster
+"J. Rodríguez",Dribbler
+"J. Rodríguez","Distance Shooter"
+"J. Rodríguez",Crosser
+"J. Rodríguez","FK Specialist"
+"Danilo Pereira",Strength
+"Y. Carrasco",Speedster
+"Y. Carrasco",Acrobat
+"R. Gosens",Engine
+"A. Davies",Speedster
+"M. Diaby",Speedster
+"M. Diaby",Dribbler
+"M. Diaby",Acrobat
+"C. Pulisic",Dribbler
+Everton,Dribbler
+Everton,Acrobat
+"B. Mendy",Crosser
+"A. Milik",Poacher
+"A. Milik","Clinical Finisher"
+"Iñaki Williams",Speedster
+"Paco Alcácer",Poacher
+"J. Martínez",Acrobat
+"M. Lazzari",Engine
+Iniesta,Playmaker
+"A. Gignac",Poacher
+"A. Gignac",Strength
+"A. Gignac","Complete Forward"
+Marlos,Dribbler
+Taison,Speedster
+Taison,Dribbler
+Taison,Acrobat
+"E. Salvio",Dribbler
+"Marcos Alonso","FK Specialist"
+"J. Cuadrado",Dribbler
+"J. Cuadrado",Acrobat
+"T. Delaney",Tactician
+"K. Kampl",Engine
+"K. Kampl",Acrobat
+"Jonathan Viera",Acrobat
+"Felipe Anderson",Dribbler
+"A. Florenzi",Engine
+"E. Zahavi",Acrobat
+"E. Zahavi","Clinical Finisher"
+Capa,Engine
+"Vinícius Jr.",Speedster
+"Vinícius Jr.",Dribbler
+"Vinícius Jr.",Acrobat
+"A. Saint-Maximin",Speedster
+"A. Saint-Maximin",Dribbler
+"A. Saint-Maximin",Acrobat
+"Diogo Jota",Acrobat
+"C. Nkunku",Dribbler
+"David Neres",Dribbler
+"David Neres",Acrobat
+"M. Gómez",Strength
+"K. Zouma",Strength
+"A. Januzaj",Dribbler
+Otávio,Dribbler
+"H. Lozano",Speedster
+"H. Lozano",Acrobat
+"Gelson Martins",Speedster
+"Gelson Martins",Dribbler
+"Gelson Martins",Engine
+"Gelson Martins",Acrobat
+Deulofeu,Dribbler
+Deulofeu,Acrobat
+"J. Milner",Engine
+"J. Milner",Crosser
+"F. Quagliarella","Distance Shooter"
+"Raúl García","Aerial Threat"
+"Diego Costa",Strength
+"B. André",Engine
+"Willian José",Strength
+"William Carvalho",Strength
+"Lucas Vázquez",Engine
+"S. Lainer",Engine
+"D. Upamecano",Strength
+"V. Osimhen",Engine
+"S. Berge","Aerial Threat"
+"S. Berge",Strength
+"J. Ikoné",Acrobat
+"D. Zagadou","Aerial Threat"
+"D. Zagadou",Strength
+"Adama Traoré",Speedster
+"Adama Traoré",Dribbler
+"C. Pavón",Speedster
+"C. Pavón",Acrobat
+"M. Rashica",Acrobat
+"Y. Atal",Speedster
+"J. Tah","Aerial Threat"
+"J. Tah",Strength
+"J. Ward-Prowse",Crosser
+"J. Ward-Prowse","FK Specialist"
+"D. Dumfries",Engine
+"E. Bardhi","FK Specialist"
+Rafinha,Dribbler
+"G. Kondogbia",Strength
+"R. Fraser",Acrobat
+"P. Max",Crosser
+"Borja Iglesias",Strength
+"R. Malinovskyi","Distance Shooter"
+"R. Malinovskyi","FK Specialist"
+Quaresma,Crosser
+Sokratis,Strength
+"Pedro León",Crosser
+"O. Giroud","Aerial Threat"
+"O. Giroud",Strength
+"M. Sissoko",Engine
+"M. Sissoko",Strength
+"C. Stuani",Poacher
+"M. Marega",Strength
+"I. Konaté","Aerial Threat"
+Antony,Speedster
+Antony,Acrobat
+"I. Sarr",Speedster
+"L. Díaz",Speedster
+"Renato Sanches",Engine
+Palhinha,Strength
+"L. Dendoncker",Engine
+"R. Borré",Engine
+"E. Dier",Strength
+"Daniel Podence",Speedster
+"Daniel Podence",Dribbler
+"Daniel Podence",Acrobat
+"Y. Mina","Aerial Threat"
+"Y. Mina",Strength
+"N. Redmond",Acrobat
+"D. da Costa",Engine
+"S. Kolašinac",Strength
+"J. Córdoba",Strength
+"F. Cervi",Speedster
+"F. Cervi",Acrobat
+"M. Almirón",Acrobat
+"F. Caicedo",Strength
+"L. Acosta",Acrobat
+"B. Dost","Aerial Threat"
+"B. Dost",Strength
+Maicon,Strength
+"L. Rodríguez",Engine
+"Sérgio Oliveira","Distance Shooter"
+"H. Vanaken","Aerial Threat"
+"H. Vanaken",Engine
+"C. Kramer",Engine
+Bernard,Acrobat
+"D. Machís",Acrobat
+"R. Steffen",Acrobat
+"V. Grifo",Crosser
+"M. Uribe",Engine
+"C. Izquierdoz",Strength
+"A. Mena",Acrobat
+"V. Coufal",Engine
+"M. Edwards",Acrobat
+"E. Palacios",Engine
+"N. De la Cruz",Engine
+"N. De la Cruz",Acrobat
+"K. Diatta",Speedster
+"K. Diatta",Acrobat
+Galeno,Speedster
+"I. Diop","Aerial Threat"
+"I. Diop",Strength
+"H. Onyekuru",Speedster
+"H. Onyekuru",Acrobat
+"N. Nández",Engine
+"D. James",Speedster
+"D. James",Engine
+"F. Kessié",Engine
+"A. Sørloth","Aerial Threat"
+"A. Sørloth",Strength
+"Pedro Henrique",Strength
+"Clinton Mata",Engine
+"J. Vestergaard","Aerial Threat"
+"J. Vestergaard",Strength
+"L. Bittencourt",Dribbler
+"L. Bittencourt",Acrobat
+"D. Klaassen",Engine
+"C. McGregor",Engine
+"Borja Valero",Playmaker
+"A. Taarabt",Dribbler
+"F. Fazio","Aerial Threat"
+"C. Kouyaté",Engine
+"S. Rondón",Strength
+"J. Kucka",Strength
+"J. Fuenzalida",Speedster
+"D. Boyata",Strength
+"V. Darida",Engine
+"S. Zaza",Strength
+"R. Centurión",Speedster
+"R. Centurión",Acrobat
+"D. Laxalt",Engine
+"Y. Chará",Speedster
+"Y. Chará",Acrobat
+"P. Daka",Speedster
+"M. Zaracho",Acrobat
+"E. Dennis",Speedster
+"Aurélio Buta",Speedster
+"Aurélio Buta",Engine
+"J. McGinn",Engine
+"A. Petagna",Strength
+Wesley,Strength
+"J. Mæhle",Speedster
+"J. Mæhle",Engine
+"F. Acheampong",Speedster
+"F. Acheampong",Acrobat
+"K. Baldé",Speedster
+"L. Ajorque","Aerial Threat"
+"C. Luyindama",Strength
+"Y. Gómez Andrade",Strength
+"V. Janssen",Strength
+"R. Fredericks",Speedster
+"J. Lukaku",Speedster
+Bruma,Acrobat
+"D. Yedlin",Speedster
+"M. Borja",Strength
+"J. Gallardo",Engine
+"G. Martínez",Acrobat
+Negredo,Strength
+Zeca,Engine
+"M. Layún",Engine
+Marcelo,Strength
+"T. Deeney",Strength
+"M. Sakho",Strength
+"V. Wanyama",Strength
+"D. Ginczek",Strength
+"M. Plattenhardt",Crosser
+"J. Forrest",Acrobat
+"M. Pereyra",Acrobat
+"R. Ibarra",Speedster
+"V. Claesson",Engine
+"O. Opazo",Speedster
+"A. Ademi",Engine
+"M. Ngadeu",Strength
+"N. Domínguez",Engine
+"L. Sinisterra",Acrobat
+"L. Robertone",Acrobat
+"A. Claude-Maurice",Acrobat
+"G. Arteaga",Engine
+"M. Camara",Engine
+"R. Skov",Crosser
+"R. Skov","FK Specialist"
+"P. Billing",Engine
+"S. Villa",Speedster
+"A. Elis",Speedster
+"M. Cornet",Engine
+"J. Barrera",Acrobat
+"P. Cissé","Aerial Threat"
+"P. Cissé",Strength
+"Rodrigo Ely",Strength
+"P. Olayinka",Engine
+"Pablo Marí",Strength
+"C. Jullien","Aerial Threat"
+"C. Jullien",Strength
+"A. Touré",Strength
+"L. Menossi",Acrobat
+"J. Dinenno",Strength
+"F. Gorriarán",Engine
+"M. Moreno",Acrobat
+"P. Jansson",Strength
+"A. Cornelius",Strength
+"Y. González",Speedster
+"N. Moumi Ngamaleu",Speedster
+Llorente,"Aerial Threat"
+Llorente,Strength
+"M. Fellaini","Aerial Threat"
+"M. Fellaini",Strength
+"S. Okaka",Strength
+"A. Modeste",Strength
+"A. Rami",Strength
+"L. Pratto",Strength
+"I. Traoré",Strength
+"G. Kakuta",Acrobat
+"J. Dueñas",Engine
+Osmar,Strength
+"J. Toornstra",Engine
+"S. Taïder",Engine
+"A. Diaby",Speedster
+"A. Diaby",Acrobat
+"F. Castillo",Speedster
+"F. Castillo",Acrobat
+"D. Chará",Engine
+"A. Younes",Dribbler
+"S. Boufal",Dribbler
+"L. Depoitre",Strength
+"J. Mojica",Speedster
+"S. Mendoza",Speedster
+"J. Furch",Strength
+"A. Silva",Engine
+"M. Barrios",Speedster
+"M. Barrios",Acrobat
+"K. Lasagna",Speedster
+"B. Mbeumo",Acrobat
+"J. Lewis",Engine
+"F. Coman",Acrobat
+"A. Lookman",Acrobat
+"R. Vargas",Acrobat
+"I. Doumbia",Strength
+"F. Onyeka",Engine
+"C. Roldan",Engine
+"J. Aidoo",Strength
+"K. Ehizibue",Speedster
+"R. Assalé",Speedster
+"R. Assalé",Acrobat
+"O. Colley",Strength
+"J. Uronen",Engine
+"M. Olunga",Strength
+"G. Caprari",Acrobat
+"Luiz Phellype",Strength
+"H. Villalba",Speedster
+"H. Villalba",Acrobat
+"Carlos Mané",Acrobat
+"M. Topal",Tactician
+"G. Hoarau",Strength
+"D. Buonanotte",Acrobat
+Varela,Strength
+"A. Ranocchia","Aerial Threat"
+"A. N'Diaye",Strength
+"R. Jack",Engine
+Quique,Acrobat
+"J. Bruma",Strength
+Bruno,Strength
+Guilherme,Speedster
+Guilherme,Acrobat
+"T. Bifouma",Speedster
+"T. Bifouma",Acrobat
+"L. Advíncula",Speedster
+"Marcos Júnior",Acrobat
+"J. Carli",Strength
+"J. Izquierdo",Acrobat
+"M. Diagne",Strength
+"C. Mayada",Speedster
+"Salvi Sánchez",Speedster
+"T. Almada",Acrobat
+"K. Mavropanos",Strength
+"O. Ejaria",Acrobat
+"A. Armstrong",Speedster
+"P. Roberts",Acrobat
+"K. Ajer",Strength
+"R. Henry",Speedster
+"R. Henry",Acrobat
+"Mauro Júnior",Acrobat
+"J. Murillo",Speedster
+"J. Murillo",Acrobat
+"R. Kristensen",Engine
+"A. Browne",Engine
+"A. Ba Loua",Acrobat
+"M. Murillo",Engine
+"M. van der Hoorn",Strength
+"F. Angileri",Engine
+"P. Zinckernagel",Acrobat
+"C. Bassogog",Speedster
+"Jamiro Monteiro",Engine
+"P. Bauer",Strength
+"S. Falette",Strength
+"D. Terans",Acrobat
+"F. Haroun",Engine
+"P. Aguilar",Engine
+"Paulo Vinícius",Strength
+"K. Mitroglou",Strength
+"B. Bannan",Acrobat
+"S. Morrison","Aerial Threat"
+"M. Schäffler",Strength
+"I. Brizuela",Acrobat
+"A. Bedoya",Engine
+"M. Caraglio",Strength
+"Leandro Damião",Strength
+"M. Waris",Speedster
+"A. Tinnerholm",Engine
+"A. Musa",Speedster
+"S. Dallas",Engine
+"Eric Botteghin",Strength
+"Iván Sánchez",Speedster
+"E. Alioski",Engine
+"J. Damm",Speedster
+Gerso,Speedster
+Gerso,Acrobat
+"J. Bela",Speedster
+"J. Bela",Acrobat
+"L. Cavallini",Strength
+"Y. Candelo",Acrobat
+"W. Morelo",Acrobat
+"D. Delgado",Speedster
+"A. Ibargüen",Speedster
+"A. Ibargüen",Acrobat
+"L. Gamba",Acrobat
+"J. Meneses",Acrobat
+"C. Ninga",Speedster
+"F. Zampedri",Strength
+"R. Kent",Acrobat
+"B. Osayi-Samuel",Speedster
+"E. Mor",Acrobat
+"D. Okereke",Speedster
+"K. Hause",Strength
+"S. Adegbenro",Speedster
+"S. Adegbenro",Acrobat
+"S. Grandsir",Acrobat
+"T. Guidara",Engine
+Luquinhas,Acrobat
+"B. Meling",Engine
+"C. Larin",Strength
+"T. Fountas",Acrobat
+"D. Verde",Acrobat
+"P. Onuachu","Aerial Threat"
+"P. Onuachu",Strength
+"A. Mabil",Speedster
+"A. Esiti",Strength
+Marcão,"Aerial Threat"
+Marcão,Strength
+"K. Bartley",Strength
+"M. Dijks",Strength
+"Y. Niakaté",Speedster
+"Y. Niakaté",Acrobat
+"L. Štetina",Strength
+"Bruno Alves",Strength
+"S. Silva",Strength
+"R. Civelli","Aerial Threat"
+"R. Civelli",Strength
+Bebé,Strength
+"S. Bamba",Strength
+"J. Babin",Strength
+"L. Jutkiewicz",Strength
+"L. Mabiala",Strength
+Titi,Strength
+"C. Benteke",Strength
+"L. Viatri",Strength
+"E. Cardona",Strength
+"J. Iturbe",Speedster
+"A. Morales",Engine
+"David Ferreiro",Acrobat
+"J. Paredes",Acrobat
+Cristiano,Strength
+"João Schmidt",Strength
+"A. Maxim",Acrobat
+"A. Hahn",Engine
+"G. Zardes",Engine
+"F. Aristeguieta",Strength
+"I. Seck","Aerial Threat"
+"I. Seck",Strength
+"Álvaro García",Speedster
+"J. Beauguel","Aerial Threat"
+"J. Beauguel",Strength
+"M. Benítez",Engine
+"C. Fai",Acrobat
+"M. Diop",Strength
+"J. Doku",Speedster
+"J. Doku",Acrobat
+"David Carmo",Strength
+Villalibre,Strength
+"F. Boya",Strength
+"A. Méndez",Strength
+"V. Koziello",Acrobat
+"L. Haraslín",Acrobat
+"J. Cooper","Aerial Threat"
+"O. Oularé",Strength
+"F. Aursnes",Engine
+"C. Jean",Acrobat
+"J. de Wijs",Strength
+"K. Adams Nuhu",Strength
+Fali,Strength
+"H. Aiesh",Speedster
+Aketxe,"FK Specialist"
+"W. Ángel",Strength
+"J. Cabral",Strength
+"F. Formiliano",Strength
+"C. Zimmermann",Strength
+"D. Polenta",Strength
+"Bruno Uvini",Strength
+"F. Avenatti","Aerial Threat"
+"B. Perlaza",Strength
+"Felipe Silva",Strength
+Xisco,Strength
+"O. Trejo",Acrobat
+"A. Szalai",Strength
+"Diego Ângelo",Strength
+"O. Gonzalez","Aerial Threat"
+"O. Gonzalez",Strength
+"A. Weimann",Engine
+"J. Toledo",Strength
+"S. Romagnoli",Strength
+"A. Losilla",Engine
+"T. Darikwa",Speedster
+"A. Flint","Aerial Threat"
+"A. Flint",Strength
+"R. Baca",Engine
+"P. Hofmann","Aerial Threat"
+"P. Hofmann",Strength
+"I. Santini",Strength
+"H. Gnohéré",Strength
+"S. Hedlund",Speedster
+"A. Traustason",Engine
+"M. Cuero",Speedster
+"E. Méndez",Strength
+Simy,"Aerial Threat"
+Simy,Strength
+"G. Lanaro",Strength
+"A. Mina",Strength
+"D. Viera",Strength
+"A. Zhirov",Strength
+Amilton,Speedster
+Garrido,Strength
+"G. Blanco Leschuk",Strength
+"J. Soraire",Engine
+"J. Frimpong",Speedster
+"R. Matondo",Speedster
+"A. Bernabei",Speedster
+"L. Openda",Speedster
+"S. McKenna",Strength
+"J. Karlsson",Acrobat
+"B. Mansilla",Speedster
+"D. Sorescu",Speedster
+"D. Sorescu",Acrobat
+"A. Tello",Engine
+"S. Abdullahi",Strength
+Gabrielzinho,Speedster
+Gabrielzinho,Acrobat
+"I. Sissoko",Strength
+"R. Gauld",Acrobat
+"S. Owusu",Speedster
+"H. Weydandt","Aerial Threat"
+"H. Weydandt",Strength
+"D. Henry",Strength
+"M. Frey",Strength
+"Y. Salmier",Strength
+"P. Förster",Engine
+"K. Zachariassen",Engine
+"R. Gabrielsen",Strength
+"Douglas Tanque",Strength
+"O. Hüsing",Strength
+"A. Mendy",Strength
+"M. Bjørnbak",Strength
+"S. Maguire",Speedster

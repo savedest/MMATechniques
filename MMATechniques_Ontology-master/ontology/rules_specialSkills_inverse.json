@@ -1,0 +1,1 @@
+{"Collections":[{"sheetName":"specialSkillsDS","startColumn":"A","endColumn":"B","startRow":"2","endRow":"+","comment":"","rule":"Individual: @B*\n  Types: special_skills\n  Facts: special_skill_associated_to @A*","active":true}]}

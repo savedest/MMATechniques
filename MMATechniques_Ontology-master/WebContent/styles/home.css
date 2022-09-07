@@ -1,0 +1,17 @@
+.hide_btn {
+    display: none;
+}
+
+.btn_ballondor {
+    position: relative;
+}
+
+.fa-arrow-up-right-from-square {
+    font-size: 15px!important;
+    color: black!important;
+}
+
+#accordion-sfo {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}

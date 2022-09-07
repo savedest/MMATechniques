@@ -1,0 +1,14 @@
+{
+	"Collections": [
+		{
+			"sheetName": "specialSkillsDSCopia",
+			"startColumn": "A",
+			"endColumn": "B",
+			"startRow": "2",
+			"endRow": "+",
+			"comment": "",
+			"rule": "Individual: @A*\n  Types: dbo:MMA_Fighter \n  Facts: has_kickboxing_techniques @B*",
+			"active": true
+		}
+	]
+}
